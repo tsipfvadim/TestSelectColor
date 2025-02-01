@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929ec7efe26f07b469c6d8b2913db622, type: 3}
+  m_Name: ColorSettings
+  m_EditorClassIdentifier: 
+  colors:
+  - ColorName: Skyblue
+    Color: {r: 0.44705883, g: 0.7647059, b: 0.9019608, a: 1}
+  - ColorName: Ocean
+    Color: {r: 0, g: 0.46666667, b: 0.7137255, a: 1}
+  - ColorName: Cherry
+    Color: {r: 0.84313726, g: 0.14901961, b: 0.21960784, a: 1}
+  - ColorName: Pink
+    Color: {r: 1, g: 0.7137255, b: 0.75686276, a: 1}
+  - ColorName: Coral
+    Color: {r: 1, g: 0.43529412, b: 0.38039216, a: 1}
+  - ColorName: Sunny
+    Color: {r: 1, g: 0.81960785, b: 0.4, a: 1}
+  - ColorName: Peach
+    Color: {r: 1, g: 0.627451, b: 0.47843137, a: 1}
+  - ColorName: Forest
+    Color: {r: 0.13333334, g: 0.54509807, b: 0.13333334, a: 1}
+  - ColorName: Mint
+    Color: {r: 0.59607846, g: 0.8745098, b: 0.6862745, a: 1}
+  - ColorName: Lavender
+    Color: {r: 0.83137256, g: 0.64705884, b: 0.8784314, a: 1}
+  - ColorName: Violet
+    Color: {r: 0.41568628, g: 0.019607844, b: 0.44705883, a: 1}
+  - ColorName: Beige
+    Color: {r: 0.9607843, g: 0.88235295, b: 0.85490197, a: 1}
+  - ColorName: Charcoal
+    Color: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 1}
+  - ColorName: Ash
+    Color: {r: 0.6901961, g: 0.6901961, b: 0.6901961, a: 1}
+  - ColorName: Chocolate
+    Color: {r: 0.54509807, g: 0.27058825, b: 0.07450981, a: 1}
+  - ColorName: Caramel
+    Color: {r: 0.7764706, g: 0.5568628, b: 0.09019608, a: 1}
